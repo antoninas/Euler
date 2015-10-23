@@ -19,4 +19,4 @@ while currentTargetNumber > 1:
     else: 
         currentPrimeFactor += 1
 
-print(str(max(largestPrimeFactorList)))
+print(max(largestPrimeFactorList))
